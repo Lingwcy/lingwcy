@@ -1,12 +1,11 @@
+Ling
+====================================
 Master's degree SouthWest MinZu University
 --------------------
 * ✉️  您可以通过 [lingwcyovo@gmail.com](mailto:selvakumardhivakar@gmail.com) 与我联系
 * 🤝  我愿意与有兴趣的项目进行合作
 * ⚡  我热爱 TypeScript 和 C#
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
-</div>
 
 ### 技能
 <p align="left">
