@@ -17,5 +17,5 @@
 
 ---
 
-> "梦想是精通TypeScript."
+> "be water"
 
