@@ -10,7 +10,7 @@
 </p>
 
 ## 📫 联系方式
-
+- 前端、图形引擎、Agent Harness
 - ✉️ 您可以通过 [lingwcyovo@gmail.com](mailto:lingwcyovo@gmail.com) 与我联系
 - 🤝 我愿意与有趣的项目进行合作
 - ⚡ 我热爱 TypeScript 和 C#，正在不断提升相关技能
